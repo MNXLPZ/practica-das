@@ -15,8 +15,8 @@ Se necesita API para conectar los servicios de pago con el cliente.
 ## Considered Options
 
 * 0003-1-Stripe
-* 0003-1-Braintree
-* 0003-1-PayPal
+* 0003-2-Braintree
+* 0003-3-PayPal
 
 ## Decision Outcome
 
@@ -44,7 +44,7 @@ Es una de las pasarelas de pago más populares, conocida por su facilidad de uso
 * Good, because Facilidad de Integración, la implementación de pagos en línea sea relativamente sencilla y disponile en varios lenguajaes de programación  y plataformas.
 * Bad, because Congelación de fondos y pagos en ciertas situaciones
 
-### 0003-1-Braintree
+### 0003-2-Braintree
 
 Es una propiedad de PayPal, ofrece una API de pasarela de pago que es popular entre las empresas de comercio electrónico. Es conocida por su soporte para múltiples métodos de pago y su facilidad de integración.
 
@@ -54,7 +54,7 @@ Es una propiedad de PayPal, ofrece una API de pasarela de pago que es popular en
 * Bad, because Requisito de cuenta de paypal
 * Bad, because Congelación de fondos en algunas ocasiones
 
-### 0003-1-PayPal
+### 0003-3-PayPal
 
 Ofrece una API que permite a las empresas integrar pagos en sus sitios web y aplicaciones.
 
