@@ -1,6 +1,6 @@
 # Selección-Google-Maps-Platform-Directions-API-SKU
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-10-28
 
 ## Context and Problem Statement
