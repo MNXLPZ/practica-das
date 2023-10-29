@@ -1,6 +1,6 @@
 # Selección-API-Gestión-Reparto
 
-* Status: proposed
+* Status: accepted
 * Deciders: Manuel López Corchado y Víctor Candel Casado
 * Date: 2023-10-28
 
