@@ -1,6 +1,7 @@
 # Selección-Patrón-Notificaciones
 
 * Status: proposed
+* Deciders: Manuel López Corchado y Víctor Candel Casado
 * Date: 2023-11-05
 
 ## Context and Problem Statement
