@@ -1,6 +1,6 @@
 # Selección-Patrón-Mediator
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-11-11
 
 ## Context and Problem Statement
